@@ -12,3 +12,5 @@ function appels($text){
 echo $text;
 return $text;
 }
+
+echo "hallo allemal";
