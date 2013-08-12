@@ -16,3 +16,4 @@ return $text;
 echo "hallo allemal";
 
 echo "dan maar even een wijziging voor de server";
+echo "Zo dan maar";
